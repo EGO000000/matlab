@@ -1,0 +1,8 @@
+time_range = [0, 5];
+init_conditions = [pi/4, 0];
+
+m = 0.2;
+l = 0.3;
+b = 0.05;
+
+u  = 0.5;
